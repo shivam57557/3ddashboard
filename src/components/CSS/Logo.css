@@ -1,0 +1,15 @@
+ .Logo {
+    grid-row-start: 1;
+    grid-row-end: 2;
+    box-sizing: border-box;
+}
+
+ .Logo img {
+    background-color: #005685;
+    padding: 2px;
+    object-fit: contain;
+    width: 50%;
+    height: 50%;
+    
+
+}

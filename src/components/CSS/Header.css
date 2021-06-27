@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+
+#root {
+    margin-top: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+.header {
+    display: grid;
+    grid-template-columns: 5% 10% 35% 15% 10% 10% 10%;
+    grid-template-rows: 3rem;
+    color: white;
+    background-color: #005685;
+    /*background-color: white;8*/
+    margin-top: 0;
+    box-sizing: border-box;
+    height: 3rem;
+    align-items: center; 
+
+}

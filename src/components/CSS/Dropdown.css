@@ -1,0 +1,31 @@
+.dropdown--list {
+    position: absolute;
+    top: 2.5rem;
+    left: 25rem;
+    border: 1px 0 0 1px;
+    border-style: none;
+    border-color: black;
+}
+
+.dropdown--list ul {
+    text-decoration: none;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    
+}
+
+.dropdown--list ul li {
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 0.5rem;
+    background-color: whitesmoke;
+}
+
+.dropdown--list ul li:last-child {
+    border-collapse: collapse;
+}

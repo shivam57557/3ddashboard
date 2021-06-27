@@ -1,0 +1,16 @@
+.username {
+    display: inline-block;
+}
+
+p {
+    display: inline-block;
+}
+
+.name--initials {
+    display: inline-block;
+    margin-left: 10px;
+    background-color: red;
+    box-sizing: border-box;
+    padding: 5px;
+    border-radius: 15px;
+}
